@@ -1,2 +1,4 @@
 # phd
-Phd.co.id bom
+Phd.co.id bom sms
+HOW TO USAGE ? NO EX... ( 856XXXXXx)
+UPLOAD SCRIPT KE HOSTING
